@@ -1,5 +1,0 @@
-The C Programming Language. 2nd Edition;Dennis Ritchie;1;3;3;Uzata;Gimnazial, Liceal
-Code: The Hidden Language of Computer Hardware and Software;Charles Petzold;2;5;5;Buna;Gimnazial, Liceal
-The Art of Electronics;Paul Horowitz;3;2;2;Noua;Gimnazial, Liceal, Universitar
-Practical Electronics for Inventors;Paul Scherz;4;1;1;Mediocra;Liceal
-Introduction to Algorithms;Thomas H. Cormen;5;4;4;Buna;Gimnazial, Liceal
