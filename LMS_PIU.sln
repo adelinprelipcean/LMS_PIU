@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMS_PIU", "LMS_PIU.csproj", "{2B2D2C64-D962-4701-AB46-239BE622FC73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMS_PIU_WinForms", "..\LMS_PIU_WinForms\LMS_PIU_WinForms.csproj", "{1D183A9C-BD8B-41CA-8F71-762F52D75A13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMS_PIU_WinForms", "LMS_PIU_WinForms\LMS_PIU_WinForms.csproj", "{1D183A9C-BD8B-41CA-8F71-762F52D75A13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
