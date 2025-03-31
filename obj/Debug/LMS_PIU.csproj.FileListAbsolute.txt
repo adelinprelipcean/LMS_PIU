@@ -1,0 +1,14 @@
+C:\Users\aamov\Desktop\USV\PIU\LMS_PIU\bin\Debug\LMS_PIU.exe.config
+C:\Users\aamov\Desktop\USV\PIU\LMS_PIU\bin\Debug\LMS_PIU.exe
+C:\Users\aamov\Desktop\USV\PIU\LMS_PIU\bin\Debug\LMS_PIU.pdb
+C:\Users\aamov\Desktop\USV\PIU\LMS_PIU\obj\Debug\LMS_PIU.csproj.AssemblyReference.cache
+C:\Users\aamov\Desktop\USV\PIU\LMS_PIU\obj\Debug\LMS_PIU.csproj.CoreCompileInputs.cache
+C:\Users\aamov\Desktop\USV\PIU\LMS_PIU\obj\Debug\LMS_PIU.exe
+C:\Users\aamov\Desktop\USV\PIU\LMS_PIU\obj\Debug\LMS_PIU.pdb
+C:\Users\aamov\Desktop\USV\PIU\bin\Debug\LMS_PIU.exe.config
+C:\Users\aamov\Desktop\USV\PIU\bin\Debug\LMS_PIU.exe
+C:\Users\aamov\Desktop\USV\PIU\bin\Debug\LMS_PIU.pdb
+C:\Users\aamov\Desktop\USV\PIU\obj\Debug\LMS_PIU.csproj.AssemblyReference.cache
+C:\Users\aamov\Desktop\USV\PIU\obj\Debug\LMS_PIU.csproj.CoreCompileInputs.cache
+C:\Users\aamov\Desktop\USV\PIU\obj\Debug\LMS_PIU.exe
+C:\Users\aamov\Desktop\USV\PIU\obj\Debug\LMS_PIU.pdb

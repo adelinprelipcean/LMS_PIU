@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|..\\LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|c:\\users\\aamov\\desktop\\usv\\lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|solutionrelative:Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|..\\LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|c:\\users\\aamov\\desktop\\usv\\lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\LMS_PIU_WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\LMS_PIU_WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\LMS_PIU_WinForms\\Form1.cs",
+              "RelativeToolTip": "..\\LMS_PIU_WinForms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:22:52.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\LMS_PIU_WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\LMS_PIU_WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\LMS_PIU_WinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\LMS_PIU_WinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:22:01.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:34:56.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:35:26.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:33:16.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
