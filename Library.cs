@@ -35,7 +35,7 @@ namespace LMS_PIU
                     if (parts.Length < 7)
                     {
                         Console.WriteLine($"Linie invalidă în books.txt: {line}");
-                        continue; // ignoră linia greșită
+                        continue; 
                     }
 
                     string title = parts[0];
@@ -116,5 +116,11 @@ namespace LMS_PIU
                 Console.WriteLine(book.ToString());
             }
         }
+
+        public List<Book> GetAllBooks()
+        {
+            return books;
+        }
+
     }
 }

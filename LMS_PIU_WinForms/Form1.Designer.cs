@@ -42,32 +42,33 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.btnDisplayBooks = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtTitle
             // 
-            this.txtTitle.Location = new System.Drawing.Point(289, 157);
+            this.txtTitle.Location = new System.Drawing.Point(308, 132);
             this.txtTitle.Name = "txtTitle";
             this.txtTitle.Size = new System.Drawing.Size(200, 20);
             this.txtTitle.TabIndex = 6;
             // 
             // txtAuthor
             // 
-            this.txtAuthor.Location = new System.Drawing.Point(289, 183);
+            this.txtAuthor.Location = new System.Drawing.Point(308, 158);
             this.txtAuthor.Name = "txtAuthor";
             this.txtAuthor.Size = new System.Drawing.Size(200, 20);
             this.txtAuthor.TabIndex = 7;
             // 
             // txtISBN
             // 
-            this.txtISBN.Location = new System.Drawing.Point(289, 209);
+            this.txtISBN.Location = new System.Drawing.Point(308, 184);
             this.txtISBN.Name = "txtISBN";
             this.txtISBN.Size = new System.Drawing.Size(200, 20);
             this.txtISBN.TabIndex = 8;
             // 
             // txtCopies
             // 
-            this.txtCopies.Location = new System.Drawing.Point(289, 235);
+            this.txtCopies.Location = new System.Drawing.Point(308, 210);
             this.txtCopies.Name = "txtCopies";
             this.txtCopies.Size = new System.Drawing.Size(200, 20);
             this.txtCopies.TabIndex = 9;
@@ -75,22 +76,22 @@
             // cmbCondition
             // 
             this.cmbCondition.FormattingEnabled = true;
-            this.cmbCondition.Location = new System.Drawing.Point(289, 260);
+            this.cmbCondition.Location = new System.Drawing.Point(308, 238);
             this.cmbCondition.Name = "cmbCondition";
-            this.cmbCondition.Size = new System.Drawing.Size(150, 21);
+            this.cmbCondition.Size = new System.Drawing.Size(200, 21);
             this.cmbCondition.TabIndex = 10;
             // 
             // cmbLevel
             // 
             this.cmbLevel.FormattingEnabled = true;
-            this.cmbLevel.Location = new System.Drawing.Point(289, 287);
+            this.cmbLevel.Location = new System.Drawing.Point(308, 265);
             this.cmbLevel.Name = "cmbLevel";
-            this.cmbLevel.Size = new System.Drawing.Size(150, 21);
+            this.cmbLevel.Size = new System.Drawing.Size(200, 21);
             this.cmbLevel.TabIndex = 11;
             // 
             // btnAddBook
             // 
-            this.btnAddBook.Location = new System.Drawing.Point(339, 314);
+            this.btnAddBook.Location = new System.Drawing.Point(273, 302);
             this.btnAddBook.Name = "btnAddBook";
             this.btnAddBook.Size = new System.Drawing.Size(113, 23);
             this.btnAddBook.TabIndex = 12;
@@ -102,7 +103,7 @@
             // 
             this.lblMessage.AutoSize = true;
             this.lblMessage.ForeColor = System.Drawing.Color.Red;
-            this.lblMessage.Location = new System.Drawing.Point(385, 340);
+            this.lblMessage.Location = new System.Drawing.Point(280, 350);
             this.lblMessage.Name = "lblMessage";
             this.lblMessage.Size = new System.Drawing.Size(0, 13);
             this.lblMessage.TabIndex = 13;
@@ -110,7 +111,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(251, 160);
+            this.label1.Location = new System.Drawing.Point(275, 135);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(27, 13);
             this.label1.TabIndex = 14;
@@ -119,7 +120,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(251, 186);
+            this.label2.Location = new System.Drawing.Point(270, 161);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(32, 13);
             this.label2.TabIndex = 15;
@@ -128,7 +129,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(251, 212);
+            this.label3.Location = new System.Drawing.Point(270, 187);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(32, 13);
             this.label3.TabIndex = 16;
@@ -137,7 +138,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(234, 238);
+            this.label4.Location = new System.Drawing.Point(253, 213);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(49, 13);
             this.label4.TabIndex = 17;
@@ -146,7 +147,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(246, 263);
+            this.label5.Location = new System.Drawing.Point(270, 241);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(32, 13);
             this.label5.TabIndex = 18;
@@ -155,17 +156,28 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(188, 290);
+            this.label6.Location = new System.Drawing.Point(207, 268);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(95, 13);
             this.label6.TabIndex = 19;
             this.label6.Text = "Nivel Recomandat";
+            // 
+            // btnDisplayBooks
+            // 
+            this.btnDisplayBooks.Location = new System.Drawing.Point(392, 302);
+            this.btnDisplayBooks.Name = "btnDisplayBooks";
+            this.btnDisplayBooks.Size = new System.Drawing.Size(113, 23);
+            this.btnDisplayBooks.TabIndex = 20;
+            this.btnDisplayBooks.Text = "Afișează cărțile";
+            this.btnDisplayBooks.UseVisualStyleBackColor = true;
+            this.btnDisplayBooks.Click += new System.EventHandler(this.btnDisplayBooks_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnDisplayBooks);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -203,6 +215,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button btnDisplayBooks;
     }
 }
 

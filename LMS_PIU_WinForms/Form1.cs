@@ -99,5 +99,11 @@ namespace LMS_PIU_WinForms
                 lblMessage.ForeColor = Color.Red;
             }
         }
+
+        private void btnDisplayBooks_Click(object sender, EventArgs e)
+        {
+            var displayForm = new FormDisplayBooks();
+            displayForm.ShowDialog(); 
+        }
     }
 }
