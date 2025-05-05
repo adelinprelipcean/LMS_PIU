@@ -1,6 +1,7 @@
 ﻿using LMS_PIU;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
 
@@ -19,6 +20,20 @@ namespace LMS_PIU_WinForms
         private void FormDisplayBooks_Load(object sender, EventArgs e)
         {
             ReloadGrid();
+
+            dataGridViewBooks.Font = new Font("Segoe UI", 9);
+            dataGridViewBooks.BackgroundColor = Color.White;
+            dataGridViewBooks.GridColor = Color.LightGray;
+
+            dataGridViewBooks.EnableHeadersVisualStyles = false;
+            dataGridViewBooks.ColumnHeadersDefaultCellStyle.BackColor = Color.LightSteelBlue;
+            dataGridViewBooks.ColumnHeadersDefaultCellStyle.ForeColor = Color.Black;
+            dataGridViewBooks.ColumnHeadersDefaultCellStyle.Font = new Font("Segoe UI", 9, FontStyle.Bold);
+
+            dataGridViewBooks.DefaultCellStyle.SelectionBackColor = Color.LightSkyBlue;
+            dataGridViewBooks.DefaultCellStyle.SelectionForeColor = Color.Black;
+            dataGridViewBooks.DefaultCellStyle.BackColor = Color.White;
+            dataGridViewBooks.DefaultCellStyle.ForeColor = Color.Black;
         }
 
         private void btnDeleteBook_Click(object sender, EventArgs e)
@@ -107,5 +122,14 @@ namespace LMS_PIU_WinForms
             dataGridViewBooks.DataSource = filtered;
         }
 
+        private void panelHeader_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void dataGridViewBooks_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
