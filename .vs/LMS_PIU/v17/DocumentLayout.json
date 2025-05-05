@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|c:\\users\\aamov\\desktop\\usv\\piu\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|c:\\users\\aamov\\desktop\\usv\\piu\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|c:\\users\\aamov\\desktop\\usv\\piu\\lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Library.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:33:25.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T14:33:25.357Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAYwCAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:31:10.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T14:31:10.836Z"
             },
             {
               "$type": "Document",

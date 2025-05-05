@@ -29,13 +29,17 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
-              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Library.cs*",
-              "RelativeToolTip": "Library.cs*",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Library.cs",
+              "RelativeToolTip": "Library.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T14:33:25.357Z",
@@ -47,16 +51,12 @@
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Book.cs*",
-              "RelativeToolTip": "Book.cs*",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Book.cs",
+              "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAYwCAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T14:31:10.836Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -64,8 +64,8 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs",
               "RelativeDocumentMoniker": "LMS_PIU_WinForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs*",
-              "RelativeToolTip": "LMS_PIU_WinForms\\Form1.cs*",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs",
+              "RelativeToolTip": "LMS_PIU_WinForms\\Form1.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAUwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T14:28:36.994Z",
@@ -77,8 +77,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs",
               "RelativeDocumentMoniker": "LMS_PIU_WinForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs [Design]*",
-              "RelativeToolTip": "LMS_PIU_WinForms\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "LMS_PIU_WinForms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T14:14:47.791Z",
               "EditorCaption": " [Design]"
