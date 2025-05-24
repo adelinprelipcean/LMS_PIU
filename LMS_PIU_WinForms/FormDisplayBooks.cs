@@ -66,32 +66,40 @@ namespace LMS_PIU_WinForms
         {
             dataGridViewBooks.DataSource = null;
             dataGridViewBooks.DataSource = lib.GetAllBooks();
+            dataGridViewBooks.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridViewBooks.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+            dataGridViewBooks.DefaultCellStyle.WrapMode = DataGridViewTriState.True;
         }
 
         private void btnEditBook_Click(object sender, EventArgs e)
         {
             if (dataGridViewBooks.SelectedRows.Count == 0)
             {
-                MessageBox.Show("Selectați o carte pentru a o modifica.");
+                MessageBox.Show("Selectează o carte.");
                 return;
             }
 
-            var selectedRow = dataGridViewBooks.SelectedRows[0];
-            var selectedBook = selectedRow.DataBoundItem as Book;
+            var selectedBook = dataGridViewBooks.SelectedRows[0].DataBoundItem as Book;
 
-            if (selectedBook == null)
-                return;
+            if (selectedBook == null) return;
 
-            string newTitle = Microsoft.VisualBasic.Interaction.InputBox("Titlu nou:", "Modificare", selectedBook.Title);
-            string newAuthor = Microsoft.VisualBasic.Interaction.InputBox("Autor nou:", "Modificare", selectedBook.Author);
+            FormEditBook formEdit = new FormEditBook(selectedBook);
 
-            if (!string.IsNullOrWhiteSpace(newTitle))
-                selectedBook.Title = newTitle;
-            if (!string.IsNullOrWhiteSpace(newAuthor))
-                selectedBook.Author = newAuthor;
+            if (formEdit.ShowDialog() == DialogResult.OK)
+            {
+                Book edited = formEdit.EditedBook;
 
-            lib.SaveFile();
-            ReloadGrid();
+                selectedBook.Title = edited.Title;
+                selectedBook.Author = edited.Author;
+                selectedBook.ISBN = edited.ISBN;
+                selectedBook.TotalCopies = edited.TotalCopies;
+                selectedBook.AvailableCopies = edited.AvailableCopies;
+                selectedBook.BookCondition = edited.BookCondition;
+                selectedBook.MinimumLevel = edited.MinimumLevel;
+
+                lib.SaveFile();
+                ReloadGrid();
+            }
         }
 
         private void label1_Click(object sender, EventArgs e)

@@ -9,11 +9,11 @@ using System.Windows.Forms;
 
 namespace LMS_PIU_WinForms
 {
-    public partial class Form1 : Form
+    public partial class FormAddBooks : Form
     {
         private Library lib;
 
-        public Form1()
+        public FormAddBooks()
         {
             InitializeComponent();
             lib = new Library();
@@ -22,7 +22,11 @@ namespace LMS_PIU_WinForms
         private void Form1_Load(object sender, EventArgs e)
         {
             cmbCondition.DataSource = Enum.GetValues(typeof(BookCondition));
-            cmbLevel.DataSource = Enum.GetValues(typeof(EducationLevel));
+            foreach (EducationLevel level in Enum.GetValues(typeof(EducationLevel)))
+            {
+                clbLevel.Items.Add(level);
+            }
+
         }
 
         private void btnAddBook_Click(object sender, EventArgs e)
@@ -74,7 +78,12 @@ namespace LMS_PIU_WinForms
             }
 
             BookCondition condition = (BookCondition)cmbCondition.SelectedItem;
-            EducationLevel level = (EducationLevel)cmbLevel.SelectedItem;
+            EducationLevel level = 0;
+
+            foreach (var item in clbLevel.CheckedItems)
+            {
+                level |= (EducationLevel)item;
+            }
 
             try
             {
@@ -104,6 +113,11 @@ namespace LMS_PIU_WinForms
         {
             var displayForm = new FormDisplayBooks();
             displayForm.ShowDialog(); 
+        }
+
+        private void lblHeader_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

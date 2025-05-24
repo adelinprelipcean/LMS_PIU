@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LMS_PIU_WinForms
+namespace Eveniment
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace LMS_PIU_WinForms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMainMenu());
+            Application.Run(new Form1());
         }
     }
 }

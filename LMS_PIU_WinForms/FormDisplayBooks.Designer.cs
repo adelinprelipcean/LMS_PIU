@@ -42,11 +42,12 @@
             // 
             // dataGridViewBooks
             // 
+            this.dataGridViewBooks.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridViewBooks.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewBooks.Location = new System.Drawing.Point(13, 106);
             this.dataGridViewBooks.Margin = new System.Windows.Forms.Padding(4);
             this.dataGridViewBooks.Name = "dataGridViewBooks";
-            this.dataGridViewBooks.Size = new System.Drawing.Size(743, 475);
+            this.dataGridViewBooks.Size = new System.Drawing.Size(811, 475);
             this.dataGridViewBooks.TabIndex = 0;
             this.dataGridViewBooks.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewBooks_CellContentClick);
             // 
@@ -124,7 +125,7 @@
             this.panelHeader.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelHeader.Location = new System.Drawing.Point(0, 0);
             this.panelHeader.Name = "panelHeader";
-            this.panelHeader.Size = new System.Drawing.Size(767, 50);
+            this.panelHeader.Size = new System.Drawing.Size(837, 50);
             this.panelHeader.TabIndex = 6;
             this.panelHeader.Paint += new System.Windows.Forms.PaintEventHandler(this.panelHeader_Paint);
             // 
@@ -144,7 +145,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(767, 647);
+            this.ClientSize = new System.Drawing.Size(837, 647);
             this.Controls.Add(this.panelHeader);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.txtSearch);

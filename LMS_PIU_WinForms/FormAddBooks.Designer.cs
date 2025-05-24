@@ -1,6 +1,6 @@
 ﻿namespace LMS_PIU_WinForms
 {
-    partial class Form1
+    partial class FormAddBooks
     {
         /// <summary>
         /// Required designer variable.
@@ -33,7 +33,6 @@
             this.txtISBN = new System.Windows.Forms.TextBox();
             this.txtCopies = new System.Windows.Forms.TextBox();
             this.cmbCondition = new System.Windows.Forms.ComboBox();
-            this.cmbLevel = new System.Windows.Forms.ComboBox();
             this.btnAddBook = new System.Windows.Forms.Button();
             this.lblMessage = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -45,13 +44,14 @@
             this.btnDisplayBooks = new System.Windows.Forms.Button();
             this.panelHeader = new System.Windows.Forms.Panel();
             this.lblHeader = new System.Windows.Forms.Label();
+            this.clbLevel = new System.Windows.Forms.CheckedListBox();
             this.panelHeader.SuspendLayout();
             this.SuspendLayout();
             // 
             // txtTitle
             // 
             this.txtTitle.Location = new System.Drawing.Point(259, 185);
-            this.txtTitle.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTitle.Margin = new System.Windows.Forms.Padding(4);
             this.txtTitle.Name = "txtTitle";
             this.txtTitle.Size = new System.Drawing.Size(233, 25);
             this.txtTitle.TabIndex = 6;
@@ -59,7 +59,7 @@
             // txtAuthor
             // 
             this.txtAuthor.Location = new System.Drawing.Point(259, 219);
-            this.txtAuthor.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAuthor.Margin = new System.Windows.Forms.Padding(4);
             this.txtAuthor.Name = "txtAuthor";
             this.txtAuthor.Size = new System.Drawing.Size(233, 25);
             this.txtAuthor.TabIndex = 7;
@@ -67,7 +67,7 @@
             // txtISBN
             // 
             this.txtISBN.Location = new System.Drawing.Point(259, 253);
-            this.txtISBN.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtISBN.Margin = new System.Windows.Forms.Padding(4);
             this.txtISBN.Name = "txtISBN";
             this.txtISBN.Size = new System.Drawing.Size(233, 25);
             this.txtISBN.TabIndex = 8;
@@ -75,7 +75,7 @@
             // txtCopies
             // 
             this.txtCopies.Location = new System.Drawing.Point(259, 287);
-            this.txtCopies.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtCopies.Margin = new System.Windows.Forms.Padding(4);
             this.txtCopies.Name = "txtCopies";
             this.txtCopies.Size = new System.Drawing.Size(233, 25);
             this.txtCopies.TabIndex = 9;
@@ -84,29 +84,20 @@
             // 
             this.cmbCondition.FormattingEnabled = true;
             this.cmbCondition.Location = new System.Drawing.Point(259, 323);
-            this.cmbCondition.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbCondition.Margin = new System.Windows.Forms.Padding(4);
             this.cmbCondition.Name = "cmbCondition";
             this.cmbCondition.Size = new System.Drawing.Size(233, 25);
             this.cmbCondition.TabIndex = 10;
-            // 
-            // cmbLevel
-            // 
-            this.cmbLevel.FormattingEnabled = true;
-            this.cmbLevel.Location = new System.Drawing.Point(259, 359);
-            this.cmbLevel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.cmbLevel.Name = "cmbLevel";
-            this.cmbLevel.Size = new System.Drawing.Size(233, 25);
-            this.cmbLevel.TabIndex = 11;
             // 
             // btnAddBook
             // 
             this.btnAddBook.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnAddBook.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAddBook.ForeColor = System.Drawing.Color.White;
-            this.btnAddBook.Location = new System.Drawing.Point(236, 408);
-            this.btnAddBook.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAddBook.Location = new System.Drawing.Point(259, 433);
+            this.btnAddBook.Margin = new System.Windows.Forms.Padding(4);
             this.btnAddBook.Name = "btnAddBook";
-            this.btnAddBook.Size = new System.Drawing.Size(132, 30);
+            this.btnAddBook.Size = new System.Drawing.Size(110, 30);
             this.btnAddBook.TabIndex = 12;
             this.btnAddBook.Text = "Adaugă Carte";
             this.btnAddBook.UseVisualStyleBackColor = false;
@@ -187,10 +178,10 @@
             this.btnDisplayBooks.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnDisplayBooks.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDisplayBooks.ForeColor = System.Drawing.Color.White;
-            this.btnDisplayBooks.Location = new System.Drawing.Point(375, 408);
-            this.btnDisplayBooks.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnDisplayBooks.Location = new System.Drawing.Point(382, 433);
+            this.btnDisplayBooks.Margin = new System.Windows.Forms.Padding(4);
             this.btnDisplayBooks.Name = "btnDisplayBooks";
-            this.btnDisplayBooks.Size = new System.Drawing.Size(132, 30);
+            this.btnDisplayBooks.Size = new System.Drawing.Size(110, 30);
             this.btnDisplayBooks.TabIndex = 20;
             this.btnDisplayBooks.Text = "Afișează cărțile";
             this.btnDisplayBooks.UseVisualStyleBackColor = false;
@@ -201,6 +192,8 @@
             this.panelHeader.BackColor = System.Drawing.Color.MidnightBlue;
             this.panelHeader.Controls.Add(this.lblHeader);
             this.panelHeader.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelHeader.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.panelHeader.ForeColor = System.Drawing.Color.White;
             this.panelHeader.Location = new System.Drawing.Point(0, 0);
             this.panelHeader.Name = "panelHeader";
             this.panelHeader.Size = new System.Drawing.Size(733, 50);
@@ -209,18 +202,29 @@
             // lblHeader
             // 
             this.lblHeader.AutoSize = true;
-            this.lblHeader.Location = new System.Drawing.Point(13, 13);
+            this.lblHeader.Location = new System.Drawing.Point(12, 9);
             this.lblHeader.Name = "lblHeader";
-            this.lblHeader.Size = new System.Drawing.Size(43, 17);
+            this.lblHeader.Size = new System.Drawing.Size(327, 25);
             this.lblHeader.TabIndex = 0;
-            this.lblHeader.Text = "label7";
+            this.lblHeader.Text = "📚 My Library Management System";
+            this.lblHeader.Click += new System.EventHandler(this.lblHeader_Click);
             // 
-            // Form1
+            // clbLevel
+            // 
+            this.clbLevel.CheckOnClick = true;
+            this.clbLevel.FormattingEnabled = true;
+            this.clbLevel.Location = new System.Drawing.Point(259, 362);
+            this.clbLevel.Name = "clbLevel";
+            this.clbLevel.Size = new System.Drawing.Size(233, 64);
+            this.clbLevel.TabIndex = 22;
+            // 
+            // FormAddBooks
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(733, 588);
+            this.Controls.Add(this.clbLevel);
             this.Controls.Add(this.panelHeader);
             this.Controls.Add(this.btnDisplayBooks);
             this.Controls.Add(this.label6);
@@ -231,16 +235,15 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblMessage);
             this.Controls.Add(this.btnAddBook);
-            this.Controls.Add(this.cmbLevel);
             this.Controls.Add(this.cmbCondition);
             this.Controls.Add(this.txtCopies);
             this.Controls.Add(this.txtISBN);
             this.Controls.Add(this.txtAuthor);
             this.Controls.Add(this.txtTitle);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "FormAddBooks";
+            this.Text = "Adaugare carte";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panelHeader.ResumeLayout(false);
             this.panelHeader.PerformLayout();
@@ -255,7 +258,6 @@
         private System.Windows.Forms.TextBox txtISBN;
         private System.Windows.Forms.TextBox txtCopies;
         private System.Windows.Forms.ComboBox cmbCondition;
-        private System.Windows.Forms.ComboBox cmbLevel;
         private System.Windows.Forms.Button btnAddBook;
         private System.Windows.Forms.Label lblMessage;
         private System.Windows.Forms.Label label1;
@@ -267,6 +269,7 @@
         private System.Windows.Forms.Button btnDisplayBooks;
         private System.Windows.Forms.Panel panelHeader;
         private System.Windows.Forms.Label lblHeader;
+        private System.Windows.Forms.CheckedListBox clbLevel;
     }
 }
 

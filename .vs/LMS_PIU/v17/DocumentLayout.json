@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|c:\\users\\aamov\\desktop\\usv\\piu\\lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|c:\\users\\aamov\\desktop\\usv\\piu\\lms_piu_winforms\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B2D2C64-D962-4701-AB46-239BE622FC73}|LMS_PIU.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formeditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formeditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formaddbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formeditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formeditbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formdisplaybooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formdisplaybooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formdisplaybooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formdisplaybooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formaddbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formaddbooks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|C:\\Users\\aamov\\Desktop\\USV\\PIU\\lms_piu_winforms\\formaddbooks.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{1D183A9C-BD8B-41CA-8F71-762F52D75A13}|LMS_PIU_WinForms\\LMS_PIU_WinForms.csproj|solutionrelative:lms_piu_winforms\\formaddbooks.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +58,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Library.cs",
-              "RelativeDocumentMoniker": "Library.cs",
-              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Library.cs",
-              "RelativeToolTip": "Library.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormUser.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormUser.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormUser.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormUser.cs",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:33:25.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Book.cs",
-              "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\Book.cs",
-              "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:31:10.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs",
-              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs",
-              "RelativeToolTip": "LMS_PIU_WinForms\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:28:36.994Z",
+              "WhenOpened": "2025-05-24T13:53:01.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs",
-              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Form1.cs [Design]",
-              "RelativeToolTip": "LMS_PIU_WinForms\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "FormUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormUser.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormUser.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormUser.cs [Design]",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:14:47.791Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-24T13:49:19.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\Program.cs",
+              "RelativeToolTip": "LMS_PIU_WinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:14:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormMainMenu.cs",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormMainMenu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:47:08.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormMainMenu.cs [Design]",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormMainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:40:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEditBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormEditBook.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormEditBook.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormEditBook.cs [Design]",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormEditBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:16:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAddBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormAddBooks.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormAddBooks.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormAddBooks.cs [Design]",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormAddBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:14:47.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEditBook.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormEditBook.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormEditBook.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormEditBook.cs",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormEditBook.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:20:07.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDisplayBooks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormDisplayBooks.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormDisplayBooks.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormDisplayBooks.cs [Design]",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormDisplayBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:07:52.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDisplayBooks.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormDisplayBooks.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormDisplayBooks.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormDisplayBooks.cs",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormDisplayBooks.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:54:46.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormAddBooks.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormAddBooks.Designer.cs",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormAddBooks.Designer.cs",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormAddBooks.Designer.cs",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormAddBooks.Designer.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAowPYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:00:59.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAddBooks.resx",
+              "DocumentMoniker": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormAddBooks.resx",
+              "RelativeDocumentMoniker": "LMS_PIU_WinForms\\FormAddBooks.resx",
+              "ToolTip": "C:\\Users\\aamov\\Desktop\\USV\\PIU\\LMS_PIU_WinForms\\FormAddBooks.resx",
+              "RelativeToolTip": "LMS_PIU_WinForms\\FormAddBooks.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-24T13:10:39.392Z"
             }
           ]
         }

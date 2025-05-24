@@ -1,5 +1,5 @@
 The C Programming Language - 2nd Edition;Dennis R.;1;3;3;Uzata;Gimnazial, Liceal
 Code: The Hidden Language of Computer Hardware and Software;Charles Petzold;2;5;5;Buna;Gimnazial, Liceal
-The Art of Electronics;Paul Horowitz;3;2;2;Noua;Gimnazial, Liceal, Universitar
+The Art of Electronics;Paul Horowitz;3;17;16;Noua;Universitar
 Practical Electronics for Inventors;Paul Scherz;4;1;1;Mediocra;Liceal
-Titlu de test;Marcel Testaru;6;5;5;Noua;Oricare
+TitluTest;AutorTest;4321;14;14;Noua;Primar, Gimnazial

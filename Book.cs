@@ -16,7 +16,6 @@ namespace LMS_PIU
     [Flags]
     public enum EducationLevel
     {
-        Oricare = 0,
         Primar = 1,
         Gimnazial = 2,
         Liceal = 4,
